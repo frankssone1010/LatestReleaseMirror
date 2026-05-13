@@ -161,12 +161,20 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayNG
 
-🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.0.18</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.0.18)
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.1.7</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.1.7)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.0.18-fdroid_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.0.18_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_arm64-v8a.apk) |
+| `v2rayNG_2.1.7-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.1.7-fdroid_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_armeabi-v7a.apk) |
+| `v2rayNG_2.1.7-fdroid_universal.apk` | 61.8 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_universal.apk) |
+| `v2rayNG_2.1.7-fdroid_x86.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_x86.apk) |
+| `v2rayNG_2.1.7-fdroid_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_x86_64.apk) |
+| `v2rayNG_2.1.7_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_arm64-v8a.apk) |
+| `v2rayNG_2.1.7_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_armeabi-v7a.apk) |
+| `v2rayNG_2.1.7_universal.apk` | 61.8 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_universal.apk) |
+| `v2rayNG_2.1.7_x86.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_x86.apk) |
+| `v2rayNG_2.1.7_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_x86_64.apk) |
 
 ---
 
@@ -179,5 +187,11 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `SlipNet-v2.5.3-full-release-arm64-v8a.apk` | 25.6 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-arm64-v8a.apk) |
+| `SlipNet-v2.5.3-full-release-armeabi-v7a.apk` | 24.8 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-armeabi-v7a.apk) |
+| `SlipNet-v2.5.3-full-release-universal.apk` | 54.6 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-universal.apk) |
+| `SlipNet-v2.5.3-full-release-x86_64.apk` | 13.9 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-x86_64.apk) |
 | `SlipNet-v2.5.3-lite-release-arm64-v8a.apk` | 10.6 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-arm64-v8a.apk) |
+| `SlipNet-v2.5.3-lite-release-armeabi-v7a.apk` | 10.5 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-armeabi-v7a.apk) |
+| `SlipNet-v2.5.3-lite-release-universal.apk` | 22.5 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-universal.apk) |
+| `SlipNet-v2.5.3-lite-release-x86_64.apk` | 11.2 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-x86_64.apk) |
 <!-- RELEASES_END -->
