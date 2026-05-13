@@ -3,6 +3,6 @@
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
 
-anonvector/SlipNet|apk
-2dust/v2rayNG|apk
-guardianproject/orbot|apk
+anonvector/SlipNet|v8a|v7a
+2dust/v2rayNG|v8a|v7a
+guardianproject/orbot-android|apk
