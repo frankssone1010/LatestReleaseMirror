@@ -4,5 +4,6 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
 anonvector/SlipNet|v8a|v7a
-2dust/v2rayNG|v8a|v7a
+2dust/v2rayNG|v8a|v7a|windows
 guardianproject/orbot-android|apk
+kianmhz/GooseRelayVPN|android|windows-amd64
