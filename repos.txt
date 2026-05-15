@@ -7,3 +7,4 @@ anonvector/SlipNet|v8a|v7a
 2dust/v2rayNG|v8a|v7a|windows
 guardianproject/orbot-android|apk
 kianmhz/GooseRelayVPN|android|windows-amd64
+zmap/zgrab2|exe|zip
