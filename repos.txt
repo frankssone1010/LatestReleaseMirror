@@ -8,5 +8,5 @@ anonvector/SlipNet|v8a|v7a
 guardianproject/orbot-android|apk
 kianmhz/GooseRelayVPN|android|windows-amd64
 zmap/zgrab2|exe|zip
-ramensoftware/windhawk|exe
+ramensoftware/windhawk|exe|offline
 ramensoftware/windhawk-dependencies|7z
