@@ -213,4 +213,29 @@ sha256sum FILE_NAME
 | `GooseRelayVPN-client-v1.6.0-android-arm64.tar.gz` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-android-arm64.tar.gz) |
 | `GooseRelayVPN-client-v1.6.0-windows-amd64.zip` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-windows-amd64.zip) |
 | `GooseRelayVPN-server-v1.6.0-windows-amd64.zip` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-windows-amd64.zip) |
+
+---
+
+<div id="ramensoftware--windhawk"></div>
+
+### ramensoftware--windhawk
+
+🔗 [source](https://github.com/ramensoftware/windhawk) – [<code><small>v1.7.3</small></code>](https://github.com/ramensoftware/windhawk/releases/tag/v1.7.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `windhawk_setup.exe` | 11.0 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/ramensoftware/windhawk/windhawk_setup.exe) |
+
+---
+
+<div id="ramensoftware--windhawk-dependencies"></div>
+
+### ramensoftware--windhawk-dependencies
+
+🔗 [source](https://github.com/ramensoftware/windhawk-dependencies) – [<code><small>v1.6</small></code>](https://github.com/ramensoftware/windhawk-dependencies/releases/tag/v1.6)
+
+| File | Size | Download |
+|------|------|----------|
+| `windhawk-compiler-1.6.7z` | 53.3 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/ramensoftware/windhawk-dependencies/windhawk-compiler-1.6.7z) |
+| `winrt_winui2_2.8.7_winui3_1.7.250401001.7z` | 4.1 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/ramensoftware/windhawk-dependencies/winrt_winui2_2.8.7_winui3_1.7.250401001.7z) |
 <!-- RELEASES_END -->
