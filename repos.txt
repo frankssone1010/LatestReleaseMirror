@@ -9,4 +9,4 @@ guardianproject/orbot-android|apk
 kianmhz/GooseRelayVPN|android|windows-amd64
 zmap/zgrab2|exe|zip
 ramensoftware/windhawk|exe
-ramensoftware/windhawk-depwndencies|7z
+ramensoftware/windhawk-dependencies|7z
