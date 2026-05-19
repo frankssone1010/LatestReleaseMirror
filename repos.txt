@@ -10,4 +10,4 @@ kianmhz/GooseRelayVPN|android|windows-amd64
 zmap/zgrab2|exe|zip
 ramensoftware/windhawk|exe|offline
 ramensoftware/windhawk-dependencies|7z
-patterniha/SNI-Spoofing
+patterniha/SNI-Spoofing|rar
