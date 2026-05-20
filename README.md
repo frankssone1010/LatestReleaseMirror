@@ -216,6 +216,20 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="mirarr-app--network-checker"></div>
+
+### mirarr-app--network-checker
+
+🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>0.6.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/0.6.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `app-arm64-v8a-release.apk` | 31.2 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-arm64-v8a-release.apk) |
+| `app-armeabi-v7a-release.apk` | 19.1 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-armeabi-v7a-release.apk) |
+| `rdnbenet-windows.zip` | 20.3 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-windows.zip) |
+
+---
+
 <div id="patterniha--sni-spoofing"></div>
 
 ### patterniha--SNI-Spoofing
