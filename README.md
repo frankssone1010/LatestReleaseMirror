@@ -161,14 +161,29 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayNG
 
-🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.1.7</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.1.7)
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.1.8</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.1.8)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.1.7-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.1.7-fdroid_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_armeabi-v7a.apk) |
-| `v2rayNG_2.1.7_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_arm64-v8a.apk) |
-| `v2rayNG_2.1.7_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_armeabi-v7a.apk) |
+| `v2rayNG_2.1.8-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.1.8-fdroid_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8-fdroid_armeabi-v7a.apk) |
+| `v2rayNG_2.1.8_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8_arm64-v8a.apk) |
+| `v2rayNG_2.1.8_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8_armeabi-v7a.apk) |
+
+---
+
+<div id="rainman69--snispf"></div>
+
+### Rainman69--SNISPF
+
+🔗 [source](https://github.com/Rainman69/SNISPF) – [<code><small>v1.9.0</small></code>](https://github.com/Rainman69/SNISPF/releases/tag/v1.9.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `snispf-linux-x86_64` | 21.3 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/Rainman69/SNISPF/snispf-linux-x86_64) |
+| `snispf-linux-x86_64.tar.gz` | 21.1 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/Rainman69/SNISPF/snispf-linux-x86_64.tar.gz) |
+| `snispf-windows-x86_64.exe` | 9.4 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/Rainman69/SNISPF/snispf-windows-x86_64.exe) |
+| `snispf-windows-x86_64.zip` | 9.2 MB | [⬇️ Download](https://raw.githubusercontent.com/frankssone1010/LatestReleaseMirror/main/releases/Rainman69/SNISPF/snispf-windows-x86_64.zip) |
 
 ---
 
