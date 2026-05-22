@@ -13,3 +13,4 @@ ramensoftware/windhawk-dependencies|7z
 patterniha/SNI-Spoofing|rar
 mirarr-app/network-checker|v8a|v7a|windows
 Rainman69/SNISPF|x86_64
+therealaleph/MasterHttpRelayVPN-RUST|v7a|v8a|windows
